@@ -1,8 +1,8 @@
 // an array that holds all of the friends data
 var friendsData = [
 	{
-		"name": "bruke",
-		"photo": "http://www.nike-shoes.net.au/wp-content/uploads/2017/09/Cats3.jpg",
+		"name": "Denzel Washington",
+		"photo": "https://www.telegraph.co.uk/content/dam/films/2017/02/15/JS120773221denzel_trans_NvBQzQNjv4Bq4IYCHjnLmgTa2nababTJS7jIvEo9xjybzSPnS7CX84Y.jpg?imwidth=1400",
 		"scores": [
 			3,
 			4,
@@ -17,8 +17,8 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "Dagim",
-		"photo": "http://images.mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/istock_000049345960_small.jpg",
+		"name": "Sterling K Brown",
+		"photo": "https://www.telegraph.co.uk/content/dam/films/2019/11/14/TELEMMGLPICT000216065147_trans_NvBQzQNjv4BqOMplnv6KLWY1OYjp7FbKURk_-zFLcmegr3SlQnY3UhA.jpeg?imwidth=1400",
 		"scores": [
 			2,
 			3,
@@ -49,8 +49,8 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "Natan",
-		"photo": "http://cdn.pcwallart.com/images/basset-hound-running-wallpaper-3.jpg",
+		"name": "Bruce Springsteen",
+		"photo": "https://www.telegraph.co.uk/content/dam/music/2019/10/04/TELEMMGLPICT000211118049_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNoGXySPv9M1Jbe0Fc3Bi1Fk.jpeg?imwidth=1400",
 		"scores": [
 			1,
 			2,
@@ -65,8 +65,8 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "Naty",
-		"photo": "https://i.pinimg.com/736x/9d/34/e8/9d34e89188d5ee22ea443c61e7162437--baby-beagle-beagle-pups.jpg",
+		"name": "George Clooney",
+		"photo": "https://www.telegraph.co.uk/content/dam/films/2019/06/07/TELEMMGLPICT000199537239_trans_NvBQzQNjv4Bq5BzGQUT_stuPq1snilgdpEp4PO4JQQ2eUBJsbpVCUtU.jpeg?imwidth=1400",
 		"scores": [
 			4,
 			5,
@@ -81,8 +81,8 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "mike",
-		"photo": "https://pbs.twimg.com/profile_images/446566229210181632/2IeTff-V.jpeg",
+		"name": "Hannah Murray",
+		"photo": "https://www.telegraph.co.uk/content/dam/tv/2019/05/09/TELEMMGLPICT000194491906_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PehAFAI_f6ud569StXyOKH0.jpeg?imwidth=1400",
 		"scores": [
 			4,
 			5,
